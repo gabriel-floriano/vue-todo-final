@@ -11,6 +11,6 @@ npm run serve
 ### build for production (npm run / yarn)
 npm run build
 
-### Surge.sh [domain](http://vue-todo-list-dev-web-1-little-project-this-domain.surge.sh).
+### Firebase Hosting [domain](https://projeto-devweb-1.web.app).
 
 ## Made with [vue-cli](https://cli.vuejs.org/).
